@@ -1,2 +1,2 @@
-# Rain-sRPG
+# RainRPG
 狐狸见
